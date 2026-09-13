@@ -1,4 +1,5 @@
-# Cybersecurity Solutions Toolkit
+# ML-Based-Real-Time-Phishing-Malicious-URL-Detector
+
 
 A comprehensive cybersecurity toolkit designed to enhance online security, protect against threats, and ensure privacy and integrity of user data.
 
@@ -282,34 +283,4 @@ Security configuration checking and analysis.
 - File encryption is file-based, not disk-level encryption
 - This toolkit is for educational and legitimate security purposes only
 
-## Legal and Ethical Use
 
-⚠️ **Important**: This toolkit is intended for:
-- Personal security enhancement
-- Educational purposes
-- Legitimate security testing on systems you own or have permission to test
-- Protecting your own data and systems
-
-**DO NOT** use these tools to:
-- Access systems without authorization
-- Perform illegal activities
-- Violate privacy or security of others
-- Break laws or regulations
-
-Users are responsible for ensuring their use complies with all applicable laws and regulations.
-
-## Contributing
-
-Feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
-## License
-
-This project is provided as-is for educational and personal use.
-
-## Support
-
-For issues, questions, or suggestions, please create an issue in the repository.
-
----
-
-**Stay Secure! 🔒**
